@@ -49,8 +49,10 @@
         "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/b\/be\/Flag_of_England.svg\/125px-Flag_of_England.svg.png",
         "group": "B",
         "name": {
+            "ar": "إنْجِلْترا",
             "en": "England",
-            "fa": "انگلستان"
+            "fa": "انگلستان",
+            "fr": "Angleterre"
         }
     },
     "USA": {
@@ -179,19 +181,49 @@
             "zh-tw": "厄瓜多"
         }
     },
-    "SN": {
+    "SEN": {
         "id": 3,
         "fifa_code": "SN",
-        "alpha2": "N\/A",
-        "alpha3": "N\/A",
+        "alpha2": "SN",
+        "alpha3": "SEN",
         "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/f\/fd\/Flag_of_Senegal.svg\/125px-Flag_of_Senegal.svg.png",
         "group": "A",
         "name": {
+            "ar": "السنغال",
+            "bg": "Сенегал",
+            "cs": "Senegal",
+            "da": "Senegal",
+            "de": "Senegal",
+            "el": "Σενεγάλη",
             "en": "Senegal",
-            "fa": "سنگال"
+            "eo": "Senegalo",
+            "es": "Senegal",
+            "et": "Senegal",
+            "eu": "Senegal",
+            "fa": "سنگال",
+            "fi": "Senegal",
+            "fr": "Sénégal",
+            "hu": "Szenegál",
+            "hy": "Սենեգալ",
+            "it": "Senegal",
+            "ja": "セネガル",
+            "ko": "세네갈",
+            "lt": "Senegalas",
+            "nl": "Senegal",
+            "no": "Senegal",
+            "pl": "Senegal",
+            "pt": "Senegal",
+            "ro": "Senegal",
+            "ru": "Сенегал",
+            "sk": "Senegal",
+            "sv": "Senegal",
+            "th": "เซเนกัล",
+            "uk": "Сенегал",
+            "zh": "塞内加尔",
+            "zh-tw": "塞內加爾"
         }
     },
-    "NL": {
+    "N\/A": {
         "id": 4,
         "fifa_code": "NL",
         "alpha2": "N\/A",
@@ -1219,8 +1251,10 @@
         "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/de\/Flag_of_Wales_%281959%29.svg\/125px-Flag_of_Wales_%281959%29.svg.png",
         "group": "B",
         "name": {
+            "ar": "بلاد الغال",
             "en": "Wales",
-            "fa": "ولز"
+            "fa": "ولز",
+            "fr": "Pays de Galles"
         }
     }
 }
